@@ -1,6 +1,7 @@
 ## Github 统计
 
-![Github 统计](https://github-readme-stats.vercel.app/api?username=Gitsifu&count_private=true&show_icons=true&theme=onedark)
+![](https://github-readme-stats.vercel.app/api?username=Gitsifu&count_private=true&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gitsifu&layout=compact)
 
 ## 博客
 
